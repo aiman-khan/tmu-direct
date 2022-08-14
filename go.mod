@@ -1,8 +1,8 @@
-// +heroku goVersion go1.12.0
+// +heroku goVersion go1.15
 
 module go-api
 
-go 1.12.0
+go 1.15
 
 require (
 	github.com/AgoraIO-Community/go-tokenbuilder v1.0.0
